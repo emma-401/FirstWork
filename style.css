@@ -31,6 +31,7 @@ h1{
   flex-wrap: nowrap;             /* wraps on small screens for responsiveness */
 }
 
+
 .decorative {
   width: 400px;                /* adjust size as needed */
   height: 300px;                /* keep aspect ratio */
