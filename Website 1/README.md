@@ -1,0 +1,2 @@
+This is a challenge from Front-end Mentor which involved me replicating a design to look like the original image. 
+This design challenged me because it made me learn new things using HTML and CSS. Like the use of target="_blank" in href for creating of link, this enables the link to open up in another browser inside of opening in that same broswer and taking me completely out of the page. Also, the way to section each work apporpiately in html which enabled me in stylying them distinctly and as a group in CSS.

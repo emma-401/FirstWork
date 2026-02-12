@@ -1,0 +1,1 @@
+This is where i got to learn how to use with JavaScript and played along with while viewing it changes in my console.

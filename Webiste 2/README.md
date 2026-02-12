@@ -1,0 +1,3 @@
+This project is done using HTML and CSS style to create a contact developers form for people to fill in their details and concept of project ideas. 
+It made use of form container, div and class to enable structure and styling to the form. Also, made use of  @media (max-width: --px) aside from <meta name="viewport" content="width=device-width, initial-scale=1.0>. 
+@media (max-width: --px): This enables the styling to reflect and react well on mobile devices.
