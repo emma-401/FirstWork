@@ -1,0 +1,1 @@
+This is the creation of Contact form using HTML and CSS, using this i mastered how to create form using header, div classes and footer in HTML. Also, the use of CSS Styling such as display, box sizing, understanding the difference between padding, margin, border, the use of hover to effects, text-align, mini-height, flex-direction and lots more.
